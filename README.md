@@ -10,4 +10,4 @@ Using the Wemos D1 R32 board requires some modifications. Refer to the [TFT_espi
 
 All TFT LCD settings are in platformio.ini, so be sure to clear all settings in User_Setup.h in the TFT_espi library folder.
 
-**Known issues:** This board only has a reset button and no other buttons to switch screen functions.
+**Known issues:** The Wemos D1 R32 board only has a reset button and no other buttons to switch screen functions.
