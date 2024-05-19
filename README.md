@@ -21,4 +21,4 @@ All TFT LCD settings are configured in the `platformio.ini` file, so make sure t
 
 The Wemos D1 R32 board has only a reset button and no additional buttons for switching screen functions.
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=WJxXGNcD-kI)
+[![Watch the video]](https://www.youtube.com/watch?v=WJxXGNcD-kI)
