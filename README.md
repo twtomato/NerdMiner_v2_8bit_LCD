@@ -23,3 +23,5 @@ The Wemos D1 R32 board has only a reset button and no additional buttons for swi
 
 [![Watch the video](images/1716025051557.jpg)](https://www.youtube.com/watch?v=WJxXGNcD-kI)
 https://www.youtube.com/watch?v=WJxXGNcD-kI
+[![Watch the video](images/ESP32-S3_Uno.jpg)](https://www.youtube.com/watch?v=E_ReicJSFG4)
+https://www.youtube.com/watch?v=E_ReicJSFG4
